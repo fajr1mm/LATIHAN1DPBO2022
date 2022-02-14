@@ -13,6 +13,11 @@ Dalam Program PHP ini terdapat 2 Class yaitu **Index** dan **Mahasiswa** *sebaga
   - Prodi : menampung Program Studi yang diampuh oleh Mahasiswa dengan type data String
   - Semester : menampung tingkat semester Mahasiswa dengan type data Integer
 
+### Running Program :
+  - Start Apache pada XAMPP Control
+  - Buka browser dan akses file dengan mengetikkan *localhost/[folder anda]* **Sesuaikan Directory file pada htdocs di folder XAMPP**
+  - Secara otomatis Operasi XAMPP mengompile code program anda
+
 ## Screenshot Hasil Compiler menggunakan Tools **XAMPP** :
 
 ![image](https://user-images.githubusercontent.com/99385328/153928632-65858f75-7525-4076-a3dd-5cb584a4bc45.png)

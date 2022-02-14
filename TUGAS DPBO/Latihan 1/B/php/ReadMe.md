@@ -13,6 +13,11 @@ Dalam Program PHP ini terdapat 2 Class yaitu **Main** dan **Club** *sebagai data
   - Player : menampung Salah satu pemain yang ada di Club dengan type data String
   - Coach : menampung Pelatih pada Club dengan type data String
 
+### Running Program :
+  - Start Apache pada XAMPP Control
+  - Buka browser dan akses file dengan mengetikkan *localhost/[folder anda]* **Sesuaikan Directory file pada htdocs di folder XAMPP**
+  - Secara otomatis Operasi XAMPP mengompile code program anda
+
 ## Screenshot Hasil Compiler menggunakan Tools **XAMPP** :
 
 ![image](https://user-images.githubusercontent.com/99385328/153930293-c1f84c99-bdce-4fa9-8db1-0cf9de42ac6b.png)

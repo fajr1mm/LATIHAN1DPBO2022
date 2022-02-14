@@ -13,6 +13,12 @@ Dalam Program C++ ini terdapat 2 Class yaitu **Main** dan **Club** *sebagai data
   - Player : menampung Salah satu pemain yang ada di Club dengan type data String
   - Coach : menampung Pelatih pada Club dengan type data String
 
+### Running Program :
+```
+g++ main.cpp -o [ nama file c++ ].exe
+[ nama file c++ ].exe
+```
+
 ## Screenshot Hasil Compiler menggunakan Tools **MinGW** :
 
 ![image](https://user-images.githubusercontent.com/99385328/153929635-9a4c86f9-f19f-4a14-8556-8fdc7a94de1d.png)

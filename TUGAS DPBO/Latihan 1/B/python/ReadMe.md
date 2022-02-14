@@ -13,6 +13,11 @@ Dalam Program Python ini terdapat 2 Class yaitu **Main** dan **Club** *sebagai d
   - Player : menampung Salah satu pemain yang ada di Club dengan type data String
   - Coach : menampung Pelatih pada Club dengan type data String
 
+### Running Program :
+```
+main.py
+```
+
 ## Screenshot Hasil Compiler menggunakan Tools **Python.org** :
 
 ![image](https://user-images.githubusercontent.com/99385328/153930717-c7c5f121-03dd-4886-8c63-e9222f88ba75.png)

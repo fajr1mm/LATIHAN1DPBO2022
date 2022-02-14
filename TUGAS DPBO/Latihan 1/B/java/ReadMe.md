@@ -13,6 +13,12 @@ Dalam Program Java ini terdapat 2 Class yaitu **Main** dan **Club** *sebagai dat
   - Player : menampung Salah satu pemain yang ada di Club dengan type data String
   - Coach : menampung Pelatih pada Club dengan type data String
 
+### Running Program :
+```
+javac *.java
+java Main
+```
+
 ## Screenshot Hasil Compiler menggunakan Tools **JDK ( Java Development KIT )** :
 
 ![image](https://user-images.githubusercontent.com/99385328/153930045-06236d12-f0cf-4f19-b236-3251e248c6c0.png)
